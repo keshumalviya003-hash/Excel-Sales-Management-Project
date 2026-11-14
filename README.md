@@ -42,7 +42,7 @@ The project uses a sample dataset of 100 sales records.
 Through this project, I practiced data cleaning, Excel formulas, PivotTables, data analysis, and dashboard creation. I also learned how to make reports interactive using Slicers and Timeline.
 
 ## 📁 Project File
-You can download the Excel workbook from this repository.
+[📥 Download Excel Workbook](Excel_Sales_Management_Portfolio_Final.xlsx)
 
 ## 🙌 Conclusion
 This is one of my practical Excel projects, created to improve my data analysis skills and build my portfolio.
