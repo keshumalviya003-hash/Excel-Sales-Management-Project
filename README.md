@@ -34,6 +34,9 @@ The project uses a sample dataset of 100 sales records.
 - Category-wise Sales Analysis
 - Monthly Sales Analysis
 - Interactive City Slicer and Date Timeline
+  ## 📸 Project Dashboard
+
+![Sales Dashboard](Sales-Dashboard.png)
 
 ## 🎯 What I Learned
 Through this project, I practiced data cleaning, Excel formulas, PivotTables, data analysis, and dashboard creation. I also learned how to make reports interactive using Slicers and Timeline.
